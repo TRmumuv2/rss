@@ -1,0 +1,1 @@
+[null,{"name":"deneme","permissions":"NONE","restriction":"1","_id":"QzQRw","actions":[{"path":"","url":"https://lite.pubg.com/tr/news/","storage":"1","varName":"sb","name":"RSS Feed Watcher"},{"storage":"1","varName":"sb","message":"${tempVars(\"sb\")} Deneme","name":"Set Embed Description"}],"event-type":"1"}]
